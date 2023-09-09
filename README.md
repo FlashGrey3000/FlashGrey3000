@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlashGrey3000
-- 👀 I’m interested in Java & Python
+- 👀 I’m interested in creating new things
 - 🌱 I’m currently learning LibGdx and giving a shot to webdev
 - 💞️ I’m looking to collaborate on anything if I can
 - 📫 How to reach me Discord: Tyrant_aak24
