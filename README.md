@@ -14,6 +14,7 @@
 ### See you around!
 <p align='center'>
   Visit Counter
+  <br>
   <img src="https://profile-counter.glitch.me/FlashGrey3000/count.svg" />
   <br>
   Come see me again, to see new things that I pump out every now and then!
