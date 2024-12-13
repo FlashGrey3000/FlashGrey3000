@@ -1,7 +1,7 @@
 # Hello! I am Flashgrey🐧
 <p align='center'>
-  <i>"Be Strong and Humble"</i>
-  <img src="https://github.com/FlashGrey3000/FlashGrey3000/assets/Soldier_in_a_garden.jpg" style="height:150px"></img>
+  <i>"Be Strong and Humble"</i><br>
+  <img src="./assets/Soldier_in_a_garden.jpg" style="height:150px"></img>
 </p>
 
 ## About me
