@@ -7,6 +7,7 @@
 ## About me
 <p>() -> Likes: creating services/tools to make life a little easier or fun😸</p>
 <p>() -> Dislikes: Bugs |🐛|🐜|🪲|🐞|🦗|🪳|🦟|🪰|</p>
+<p>() -> I like writing as well, check out my blog [here](https://flashgrey-blog.vercel.app/)</p>
 
 - Proficient in `Python` & `Java` & `C`
 - Familiar with `Go` & `Javascript`
