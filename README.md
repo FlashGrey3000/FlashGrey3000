@@ -18,7 +18,7 @@
 
 
 
-Like what you see? Don't like what you see? Come talk to me about anything on discord - `flashgrey3000` ;D  
+Like what you see? Don't like what you see? Come talk to me anyway about *anything* on discord - `flashgrey3000` ;D  
 
 <p align='center'>
   Visit Counter
