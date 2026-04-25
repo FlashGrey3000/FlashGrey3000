@@ -32,7 +32,7 @@ Languages = {
 
 Happy to talk on: [Discord](https://discord.com/users/757297929894756473)
 
-> Venture further @ [flashgrey.xyz](https://flashgrey.xyz)
+> Venture further @ [flashgrey.dev](https://flashgrey.dev)
 
 <!---
 FlashGrey3000/FlashGrey3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
