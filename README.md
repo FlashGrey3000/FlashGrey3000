@@ -31,16 +31,16 @@ Languages = {
 
 Status = {
   Learning: System Design,
-  Building: Things I want to understand,
-  Currently: Software testing | Vector DBs | Tool Calling
+  Building: "Things I want to understand",
+  Currently: Software Testing | Vector DBs | Tool Calling
 };
 
 Projects = {
-  NNinC: A Neural Network implementation in C,
-  Autos: Automata game theory simulations,
-  Uminibin: Anonymous one-time messaging site,
-  Frame Forge: A basic video editing app,
-  Book Trade Hub: Book trading site
+  NNinC: "A Neural Network implementation in C",
+  Autos: "Automata game theory simulations",
+  Uminibin: "Anonymous one-time messaging site",
+  Frame Forge: "A basic video editing app",
+  Book Trade Hub: "Book trading site"
 };
 ```  
 
