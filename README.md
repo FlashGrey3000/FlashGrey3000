@@ -9,24 +9,38 @@ Identity = {
 
 Arsenal = {
   OS: Arch Linux (btw),
-  Terminal: Alacritty,
-  Web: Next.js | React | Tailwind | Flask,
-  Data: Numpy | Pandas | SageMath | OpenCV
+  Terminal: Kitty,
+  Army: 2 cats
 };
 
 Interests = [
-  Transhumanism | Neural Networks and more...,
+  Transhumanism | Neural Networks,
   Big Numbers | Cryptography,
   Free Stuff | Open Source,
   Yapping | Computer Networks,
-  Matrix cosplays | Image Processing,
-  Spice gambling | Cooking,
-  Paper scratching | Sketching
+  Matrix Cosplays | Image Processing,
+  Spice Gambling | Cooking,
+  Wasting Lead | Sketching
 ];
 
 Languages = {
   Primary: Python | C | Java,
-  Secondary: Javascript/Typescript | Go | Japanese
+  Secondary: Javascript/Typescript | Go | Japanese,
+  Preference: Systems
+};
+
+Status = {
+  Learning: System Design,
+  Building: Things I want to understand,
+  Currently: Software testing | Vector DBs | Tool Calling
+};
+
+Projects = {
+  NNinC: A Neural Network implementation in C,
+  Autos: Automata game theory simulations,
+  Uminibin: Anonymous one-time messaging site,
+  Frame Forge: A basic video editing app,
+  Book Trade Hub: Book trading site
 };
 ```  
 
